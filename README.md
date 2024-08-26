@@ -13,21 +13,22 @@ Desafio de Projeto do programa Oracle One  em parceria com a Alura no ano de 202
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/53119511/182502484-45f07927-fa85-4b5a-b42a-6e9164b75d25.JPG">
 </p>
 
-Chave de Criptografia
+
 ---
+Chave de Criptografia
 
-As "chaves" de criptografia utilizadas são:<br>
+As "chaves" criptograficas são as seguir:<br>
 
+- A letra "a" é convertida para "ai"<br>
 - A letra "e" é convertida para "enter"<br>
 - A letra "i" é convertida para "imes"<br>
-- A letra "a" é convertida para "ai"<br>
 - A letra "o" é convertida para "ober"<br>
 - A letra "u" é convertida para "ufat"<br>
 
-Funcionalidade:
+Funcionalidades:
 
-- Reconhece textos apenas em letras minúsculas;
-- Não são reconhecidos caracteres especiais (, / ; : * @ # ), nem acentuação;
+- O criptógrafo transforma a sua mensagem (texto) em algo impossível de decifrar. Ótimo para aquelas trocas de mensagens com os amigos!;
+- Não são reconhecidos  nenhum tipo de caracter especial (, / ; : * @ # ...), nem acentuação (´ ^ ~ ! ? ...);
 - Existe a opção de Criptografar e Descriptografar.
 
 Exemplo:
