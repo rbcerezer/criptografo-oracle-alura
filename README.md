@@ -56,7 +56,7 @@ ____
 
 ### Deploy e Redes Sociais:
 
-- ###### Deploy do projeto:
+- ###### Deploy do projeto: https://criptografo-oracle-alura.vercel.app/
 
 - ###### LinkedIn: https://www.linkedin.com/in/rbcerezer/
 
